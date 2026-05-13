@@ -1,1 +1,7 @@
+drop-chance:
+  mob-fragment: 35
 
+messages:
+  equip: "&aHyperBook Equipped!"
+  unequip: "&eHyperBook Unequipped!"
+  locked: "&cYou don't own this HyperBook!"
