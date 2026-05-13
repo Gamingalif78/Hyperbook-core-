@@ -1,1 +1,9 @@
+name: HyperBook
+version: 1.0
+main: com.hyperbook.HyperBookPlugin
+api-version: 1.21.10
 
+commands:
+  hyperbook:
+    description: Open HyperBook GUI
+    usage: /hyperbook
